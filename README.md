@@ -1,6 +1,6 @@
 # Interface Gráfica do Usuário (GUI) para controle de Arduino UNO
 
-Neste projeto foi desenvolvido uma interface gráfica do utilizador (GUI) para controle do Arduino UNO via comunicação serial.
+Neste projeto foi desenvolvido uma interface gráfica do usuário (GUI) para controle do Arduino UNO via comunicação serial.
 
 ### Dúvidas referentes ao projeto? Me mande uma mensagem!
 
