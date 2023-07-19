@@ -1,0 +1,9 @@
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\obj\Debug\GUI-Fatec.csprojResolveAssemblyReference.cache
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\obj\Debug\GUI_Fatec.Form1.resources
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\obj\Debug\GUI_Fatec.Properties.Resources.resources
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\obj\Debug\GUI-Fatec.csproj.GenerateResource.Cache
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\bin\Debug\GUI-Fatec.exe.config
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\bin\Debug\GUI-Fatec.exe
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\bin\Debug\GUI-Fatec.pdb
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\obj\Debug\GUI-Fatec.exe
+H:\Micro II\Visual Studio\Aula 9 - 26.05\GUI-Fatec\GUI-Fatec\obj\Debug\GUI-Fatec.pdb
